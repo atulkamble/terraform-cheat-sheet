@@ -1,8 +1,3 @@
-Got it 👍 I’ll properly sequence and merge both overlapping parts of your cheatsheet into a **single ordered flow**.
-Here’s the clean, structured version:
-
----
-
 # Terraform Cheatsheet (Commands, Codes & Steps)
 
 > A fast, practical reference for everyday Terraform work — installation, init → plan → apply workflow, variables & modules, state, workspaces, backends, and common HCL patterns.
@@ -357,8 +352,3 @@ terraform force-unlock <LOCK_ID>
 * 💼 [LinkedIn: atuljkamble](https://linkedin.com/in/atuljkamble)
 * 📝 [Medium: atuljkamble](https://atuljkamble.medium.com)
 
----
-
-✨ Now it’s ordered **from install → setup → workflow → advanced → best practices** with no overlaps.
-
-Would you like me to also generate a **visual flow diagram (PNG)** for this cheatsheet (init → plan → apply → state → destroy) so it’s easier to present in slides/docs?
